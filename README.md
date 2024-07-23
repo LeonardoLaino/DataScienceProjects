@@ -8,6 +8,6 @@ O repositório está dividido em 3 pastas, indicando o tipo de problema abordado
 
 # Minhas Redes
 
-(LinkedIn)[https://www.linkedin.com/in/leonardo-laino/]
+[LinkedIn](https://www.linkedin.com/in/leonardo-laino/)
 
-(Site Portfólio)[https://leonardolaino.github.io/]
+[Site Portfólio](https://leonardolaino.github.io/)
